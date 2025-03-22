@@ -8,7 +8,7 @@ BookingService: DB data tho ticket confirm chesthundi.
 Movie, Ticket, BookingService classes — just data source DB ayindi.
 Movie → Ticket → BookingService flow ayi, output same vasthundi: "Booking confirmed: Ticket for Pushpa 2 at 7:00 PM, Seat: A12".              
 
-and pdadmin ddl
+ pgadmin ddl
 ----------------
 
 CREATE TABLE movies (
